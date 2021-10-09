@@ -1,6 +1,8 @@
 # Embedded System Mini Project
 ## Arduino Based Calculator Source Code
 
+<B><h3>Suvam S Behera BE-A-47</h3> </B>
+
 Youc can find the source code below. I have also uplaoded the .ino file and HEX file which you can directly download to flash your Arduino UNO R3.
 ```
 
@@ -193,4 +195,4 @@ void DisplayResult()
   lcd.print(Number); 
 }
 ```
-## By Suvam S Behera BE-A-47 
+
