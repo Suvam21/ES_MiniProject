@@ -1,5 +1,7 @@
 # Embedded System Mini Project
 ## Arduino Based Calculator Source Code
+
+Youc can find the source code below. I have also uplaoded the .ino file and HEX file which you can directly download to flash your Arduino UNO R3.
 ```
 
 #include <LiquidCrystal.h>
